@@ -148,9 +148,9 @@ with st.expander("class 1 課堂筆記"):
     #### 這是標題4
     """
     )
+
 with st.expander("class 2 課堂筆記"):
-    st.write(
-        """
+    st.write("""
 一、比較運算子：比一比，看誰大誰小！
 比較方式    意思是？	範例	結果
 ==	        一樣嗎？	1 == 2	❌ False
